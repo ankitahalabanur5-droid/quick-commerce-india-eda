@@ -1,4 +1,4 @@
-# Quick Commerce India — EDA & Insights
+# Quick Commerce Performance Analysis — India
 
 EDA on 1 million orders across 8 Indian quick commerce platforms.
 
